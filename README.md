@@ -1,6 +1,7 @@
 # FoodOrder
 
 A PHP project created for an assignment in my web app class.
+
 A restaurants website that allows you to add menu items into the cart and checkout
 
 
